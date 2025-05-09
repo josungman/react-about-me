@@ -10,6 +10,7 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "@fullpage/react-fullpage": "^0.1.48",
     "framer-motion": "^12.10.4",
     "lucide-react": "^0.508.0",
     "react": "^19.1.0",
